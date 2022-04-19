@@ -14,5 +14,5 @@ Possui função autocomplete dos endereços baseado em geolocalização da api d
      DO GOOGLE MAPS API : https://developers.google.com/maps/documentation/javascript/distancematrix?hl=en#GetStarted    
      ESSA CHAVE TAMBEM SERVIRÁ  PARA O PLACE AUTOCOMPLETE !                                                              
      COM A CHAVE GERADA, NO ARQUIVO "config.php", NO CAMPO "CHAVES DE API", INSERIR A CHAVE GERADA PARA QUE O SISTEMA    
-     POSSA FUNCIONAR!!!                                                                                            
+     POSSA FUNCIONAR!!!                                                                                             
 	
